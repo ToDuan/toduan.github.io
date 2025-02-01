@@ -1,7 +1,6 @@
 ---
 permalink: /
 title: ""
-excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -40,7 +39,7 @@ My research interests focus on *network security and privacy*, *network traffic 
 - Research on multimodal pretraining for 5GC network failure detection.
 
 # 🎖 Honors and Awards
-- Huawei Second Prize Scholarship, 2022
+- Huawei Scholarship, 2022
 - **Second Prize**, National College Mathematics Competition, 2019
 - **Champion** (Team Captain), China Robot Competition, 2018
 - **First Prize** (Team Captain), RoboCup China Open, 2018
