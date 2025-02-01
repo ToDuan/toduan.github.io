@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-# 👨🏼‍🎓 About me
+# 👨🏼‍🎓 About Me
 I am a second-year Ph.D stduent in [Intelligent Networks and Network Security Lab](https://nskeylab.xjtu.edu.cn/site/lab/),
 Xi'an Jiaotong University, advised by [Prof. Junzhou Zhao](https://junzhouzhao.github.io/) and [Prof. Pinghui Wang](https://gr.xjtu.edu.cn/en/web/phwang). 
 Before that, I received my M.S. degree and B.Eng. degree from Xi'an Jiaotong University and Harbin Engineering University, respectively.
