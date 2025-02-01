@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "TaoDuan-Homepage"
-description              : "..."
+title                    : "TaoDuan"
+description              : "MOE KLINNS Lab, Xi’an Jiaotong University"
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,21 +23,21 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Tao Duan (段涛)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "MOE KLINNS Lab, Xi’an Jiaotong University"
+  bio              : "Ph.D Student"
   location         : "Xi’an 710049, P. R. China"
   employer         :
   pubmed           : 
-  googlescholar    :  # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  googlescholar    :  "https://scholar.google.com/citations?user=ECiV_4sAAAAJ&hl=zh-CN"
   email            : "dauntao@stu.xjtu.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
-  uri              : https://toduan.github.io/
+  uri              :  # https://toduan.github.io/
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "https://github.com/tduan-xjtu"
   google_plus      :
   keybase          :
   instagram        :
