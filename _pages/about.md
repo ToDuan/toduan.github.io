@@ -25,8 +25,8 @@ My research interests focus on *network security and privacy*, *network traffic 
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.12*: &nbsp;🎉🎉 Our cloud system failure diagnosis paper is accepted by IEEE ICSE-SEIP 2025 (CCF-A)!  
+- *2023.11*: &nbsp;🎉🎉 Our streaming data early classification paper is accepted by IEEE ICDE 2024 (CCF-A)! 
 
 # 📝 Publications 
 
