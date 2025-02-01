@@ -18,8 +18,8 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👨🏼‍🎓 About me
-I am a second year Ph.D stduent in [Intelligent Networks and Network Security Lab](https://nskeylab.xjtu.edu.cn/site/lab/),
-Xi'an Jiaotong University, advised by [Prof. Junzhou Zhap](https://junzhouzhao.github.io/) and [Prof. Pinghui Wang](https://gr.xjtu.edu.cn/en/web/phwang). 
+I am a second-year Ph.D stduent in [Intelligent Networks and Network Security Lab](https://nskeylab.xjtu.edu.cn/site/lab/),
+Xi'an Jiaotong University, advised by [Prof. Junzhou Zhao](https://junzhouzhao.github.io/) and [Prof. Pinghui Wang](https://gr.xjtu.edu.cn/en/web/phwang). 
 Before that, I received my M.S. degree and B.Eng. degree from Xi'an Jiaotong University and Harbin Engineering University, respectively.
 My research interests focus on *network security and privacy*, *network traffic analysis*, *streaming data mining*, and *AIOps*. 
 
@@ -32,13 +32,19 @@ My research interests focus on *network security and privacy*, *network traffic 
 - [ICSE'25] **Tao Duan**, Runqing Chen, Pinghui Wang, Junzhou Zhao, Jiongzhou Liu , Shujie Han , Yi Liu, and Fan Xu. "BSODiag: A Global Diagnosis Framework for Batch Servers Outage in Large-scale Cloud Infrastructure Systems". In Proceedings of the 47th IEEE/ACM International Conference on Software Engineering (ICSE), 2025.
 - [ICDE'24] **Tao Duan**, Junzhou Zhao, Shuo Zhang, Jing Tao, and Pinghui Wang. "Representation Learning of Tangled Key-Value Sequence Data for Early Classification". In Proceedings of the 41st IEEE International Conference on Data Engineering (ICDE), 2024. [[Paper](https://arxiv.org/pdf/2404.07454)] [[Code](https://github.com/tduan-xjtu/kvec_project)] [[Dataset](https://github.com/tduan-xjtu/kvec_project/tree/main/private_dataset)]
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+## Alibaba Cloud Computin
+*Research Intern*
+- Research on batch servers outage diagnosis in large-scale cloud infrastructure systems.
+
+## Huawei Technologies Co., Ltd.
+*Research Intern*
+- Research on multimodal pretraining for 5GC network failure detection.
+
+# 🎖 Honors and Awards
+- Huawei Second Prize Scholarship, 2022
+- Second Prize, National College Mathematics Competition, 2019
+- Champion (Team Captain), China Robot Competition, 2018
+- Second Prize (Team Captain), National College Optoelectronic Design Competition, 2018
+- Second Prize (Team Member), China Robot Competition, 2018
+- First Prize (Team Captain), RoboCup China Open, 2018
