@@ -17,9 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I.m a second year Ph.D stduent in [Intelligent Networks and Network Security Lab](https://nskeylab.xjtu.edu.cn/site/lab/), Xi'an Jiaotong University, advised by 
-[Prof. Junzhou Zhap](https://junzhouzhao.github.io/) and [Prof. Pinghui Wang](https://gr.xjtu.edu.cn/en/web/phwang). 
-My research interests focus on *Network Traffic Analysis*, *Streaming Data Mining*, and *AIOps*. 
+# 👨🏼‍🎓 About me
+I am a second year Ph.D stduent in [Intelligent Networks and Network Security Lab](https://nskeylab.xjtu.edu.cn/site/lab/),
+Xi'an Jiaotong University, advised by [Prof. Junzhou Zhap](https://junzhouzhao.github.io/) and [Prof. Pinghui Wang](https://gr.xjtu.edu.cn/en/web/phwang). 
+Before that, I received my M.S. degree and B.Eng. degree from Xi'an Jiaotong University and Harbin Engineering University, respectively.
+My research interests focus on *network security and privacy*, *network traffic analysis*, *streaming data mining*, and *AIOps*. 
 
 
 # 🔥 News
