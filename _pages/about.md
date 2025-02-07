@@ -11,8 +11,8 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👨🏼‍🎓 About Me
-I am a second-year Ph.D stduent in [Intelligent Networks and Network Security Lab](https://nskeylab.xjtu.edu.cn/site/lab/),
-Xi'an Jiaotong University, advised by [Prof. Junzhou Zhao](https://junzhouzhao.github.io/) and [Prof. Pinghui Wang](https://gr.xjtu.edu.cn/en/web/phwang). 
+I am a second-year Ph.D stduent in [Ministry of Education Key Lab for Intelligent Networks and Network Security](https://nskeylab.xjtu.edu.cn/site/lab/),
+Xi'an Jiaotong University, advised by [Assoc. Prof. Junzhou Zhao](https://junzhouzhao.github.io/) and [Prof. Pinghui Wang](https://gr.xjtu.edu.cn/en/web/phwang). 
 Before that, I received my M.S. degree and B.Eng. degree from Xi'an Jiaotong University and Harbin Engineering University, respectively.
 My research interests focus on *network security and privacy*, *network traffic analysis*, *streaming data mining*, and *AIOps*. 
 
@@ -29,14 +29,14 @@ My research interests focus on *network security and privacy*, *network traffic 
 ## Alibaba Cloud Computin. [*Research Intern*]
 - Research on batch servers outage diagnosis in large-scale cloud infrastructure systems.
 
-## Huawei Technologies. [*Research Intern*]
+## Huawei Technologies Co., Ltd. [*Research Intern*]
 - Research on multimodal pretraining for 5GC network failure detection.
 
 # 🎖 Honors and Awards
 - Huawei Scholarship, 2022.
-- **Second Prize**, National College Mathematics Competition, 2019.
-- **Champion** (Team Captain), China Robot Competition, 2018.
-- **First Prize** (Team Captain), RoboCup China Open, 2018.
-- **Second Prize** (Team Captain), National College Optoelectronic Design Competition, 2018.
-- **Second Prize** (Team Member), China Robot Competition, 2018.
+- **Second Prize** in National College Mathematics Competition, 2019.
+- **Champion** (Team Captain) in China Robot Competition, 2018.
+- **First Prize** (Team Captain) in RoboCup China Open, 2018.
+- **Second Prize** (Team Captain) in National College Optoelectronic Design Competition, 2018.
+- **Second Prize** (Team Member)in China Robot Competition, 2018.
 
