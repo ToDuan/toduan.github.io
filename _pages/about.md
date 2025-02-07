@@ -38,5 +38,5 @@ My research interests focus on *network security and privacy*, *network traffic 
 - **Champion** (Team Captain) in China Robot Competition, 2018.
 - **First Prize** (Team Captain) in RoboCup China Open, 2018.
 - **Second Prize** (Team Captain) in National College Optoelectronic Design Competition, 2018.
-- **Second Prize** (Team Member)in China Robot Competition, 2018.
+- **Second Prize** (Team Member) in China Robot Competition, 2018.
 
