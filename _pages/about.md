@@ -11,9 +11,9 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👨🏼‍🎓 About Me
-I currently am a second-year Ph.D. student in [Ministry of Education Key Lab for Intelligent Networks and Network Security](https://nskeylab.xjtu.edu.cn/site/lab/),
+I am currently a second-year Ph.D. student in the [Ministry of Education Key Lab for Intelligent Networks and Network Security](https://nskeylab.xjtu.edu.cn/site/lab/),
 Xi'an Jiaotong University, advised by [Assoc. Prof. Junzhou Zhao](https://junzhouzhao.github.io/) and [Prof. Pinghui Wang](https://gr.xjtu.edu.cn/en/web/phwang). 
-Before that, I received my M.Eng. and B.Eng. degree from Xi'an Jiaotong University and Harbin Engineering University, respectively.
+Before that, I received my M.Eng. degree and B.Eng. degree from Xi'an Jiaotong University and Harbin Engineering University, respectively.
 My research interests focus on *network security and privacy*, *network traffic analysis*, *streaming data mining*, and *AIOps*. 
 
 
