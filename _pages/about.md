@@ -26,8 +26,8 @@ My research interests focus on *network security and privacy*, *network traffic 
 - [ICDE'24] **Tao Duan**, Junzhou Zhao, Shuo Zhang, Jing Tao, and Pinghui Wang. "Representation Learning of Tangled Key-Value Sequence Data for Early Classification". In Proceedings of the 41st IEEE International Conference on Data Engineering (ICDE), 2024. [[Paper](https://arxiv.org/pdf/2404.07454)] [[Code](https://github.com/tduan-xjtu/kvec_project)] [[Dataset](https://github.com/tduan-xjtu/kvec_project/tree/main/private_dataset)]
 
 # 💻 Internships
-## Alibaba Cloud Computin. [*Research Intern*]
-- Research on batch servers outage diagnosis in large-scale cloud infrastructure system.
+## Alibaba Cloud Computing. [*Research Intern*]
+- Research on batch servers outage diagnosis in large-scale cloud infrastructure systems.
 
 ## Huawei Technologies Co., Ltd. [*Research Intern*]
 - Research on multimodal pretraining for 5GC network failure detection.
