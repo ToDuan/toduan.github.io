@@ -33,6 +33,7 @@ My research interests focus on *network security and privacy*, *network traffic 
 - Research on multimodal pretraining for 5GC network failure detection.
 
 # 🎖 Honors and Awards
+- **Champion** (Team Captain) in HBM Failure Prediction Competition, 2025.
 - Huawei Scholarship, 2022.
 - **Second Prize** in National College Mathematics Competition, 2019.
 - **Champion** (Team Captain) in China Robot Competition, 2018.
