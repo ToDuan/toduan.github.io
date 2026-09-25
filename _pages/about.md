@@ -28,8 +28,8 @@ My research interests focus on **AI for Cybersecurity** and **AI for System Depe
 - *2023.11*: &nbsp;🎉🎉 Our streaming data early classification paper is accepted by IEEE ICDE 2024 (CCF-A)! 
 
 # 📝 Publications 
-- [ICSE'25] **Tao Duan**, Junzhou Zhao, Jianglong Li, Ronghua Li, Youqian Zhang, Nuo Xu, Pinghui Wang, and Haibo Hu. MAppPrint: Robust and Real-time Mobile App Fingerprinting via Traffic Behavior Correlation Graphs. NDSS, 2027. (in appear)
-- [CJC'26] Jun Zhou Zhao, **Tao Duan**, Jiang Long Li, Ping Hui Wang, and Jing Tao. "BSODiag: A Global Diagnosis Framework for Batch Servers Outage in Large-scale Cloud Infrastructure Systems".  Chinese Journal of Computers, 2026. [[Paper](https://www.arxiv.org/pdf/2502.15728)]  
+- [ICSE'25] **Tao Duan**, Junzhou Zhao, Jianglong Li, Ronghua Li, Youqian Zhang, Nuo Xu, Pinghui Wang, and Haibo Hu. "MAppPrint: Robust and Real-time Mobile App Fingerprinting via Traffic Behavior Correlation Graphs". NDSS, 2027. [accepted; to appear]
+- [CJC'26] Jun Zhou Zhao, **Tao Duan**, Jiang Long Li, Ping Hui Wang, and Jing Tao. "Encrypted VoIP Network Traffic Recognition via Aligning Voice Spectra and Packet Length".  Chinese Journal of Computers, 2026. [[Paper](../assets/VPrint.pdf)]  
 - [ICSE'25] **Tao Duan**, Runqing Chen, Pinghui Wang, Junzhou Zhao, Jiongzhou Liu, Shujie Han, Yi Liu, and Fan Xu. "BSODiag: A Global Diagnosis Framework for Batch Servers Outage in Large-scale Cloud Infrastructure Systems". In Proceedings of the 47th IEEE/ACM International Conference on Software Engineering (ICSE), 2025. [[Paper](https://www.arxiv.org/pdf/2502.15728)] [[Slides](../assets/BSODiag_ICSE25_Slides.pdf)]
 - [ICDE'24] **Tao Duan**, Junzhou Zhao, Shuo Zhang, Jing Tao, and Pinghui Wang. "Representation Learning of Tangled Key-Value Sequence Data for Early Classification". In Proceedings of the 41th IEEE International Conference on Data Engineering (ICDE), 2024. [[Paper](https://arxiv.org/pdf/2404.07454)] [[Slides](../assets/kvec_icde24_Slides.pdf)] [[Code](https://github.com/tduan-xjtu/kvec_project)] [[Dataset](https://github.com/tduan-xjtu/kvec_project/tree/main/private_dataset)]
 
