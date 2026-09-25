@@ -17,7 +17,7 @@ Before that, I received my M.Eng. degree and B.Eng. degree from Xi'an Jiaotong U
 From September 2025 to September 2026, I was a visiting Ph.D. student at the [ASTAPLE Lab](https://www.astaple.com/), The Hong Kong Polytechnic University, advised by [Prof. Haibo Hu](https://haibohu.org/).
 
 My research interests focus on **AI for Cybersecurity** and **AI for System Dependability**:
-- **AI for Cybersecurity**: online and robust encrypted traffic identification systems, deployable intrusion detection systems.1
+- **AI for Cybersecurity**: online and robust encrypted traffic identification systems, deployable intrusion detection systems. 
 - **AI for System Dependability**: reliable fault detection, root-cause analysis solutions for network/cloud systems.
 
 
