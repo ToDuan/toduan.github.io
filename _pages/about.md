@@ -11,10 +11,14 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👨🏼‍🎓 About Me
-I am currently a third-year Ph.D. student in the [Ministry of Education Key Lab for Intelligent Networks and Network Security](https://nskeylab.xjtu.edu.cn/site/lab/),
+I am currently a fourth-year Ph.D. student in the [Ministry of Education Key Lab for Intelligent Networks and Network Security](https://nskeylab.xjtu.edu.cn/site/lab/),
 Xi'an Jiaotong University, advised by [Assoc. Prof. Junzhou Zhao](https://junzhouzhao.github.io/) and [Prof. Pinghui Wang](https://gr.xjtu.edu.cn/en/web/phwang). 
 Before that, I received my M.Eng. degree and B.Eng. degree from Xi'an Jiaotong University and Harbin Engineering University, respectively.
-My research interests focus on *network security and privacy*, *network traffic analysis*, *streaming data mining*, and *AIOps*. 
+From September 2025 to September 2026, I was a visiting Ph.D. student at the ASTAPLE Lab, The Hong Kong Polytechnic University, under the supervision of Prof. Haibo Hu.
+
+My research interests focus on *AI for Cybersecurity* and *AI for System Dependability*:
+- 1. AI for Cybersecurity: I explore online and robust encrypted traffic identification systems and deployable intrusion detection systems. Related work has been published at ICDE 2024 and NDSS 2027.
+- 2. AI for System Dependability: I develop reliable fault detection and root-cause analysis solutions for network and cloud systems. Related work was published at ICSE 2025.
 
 
 # 🔥 News
