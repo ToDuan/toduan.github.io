@@ -42,7 +42,7 @@ My research interests focus on **AI for Cybersecurity** and **AI for System Depe
 
 # 🎖 Honors and Awards
 - **Champion** (Team Captain) in HBM Failure Prediction Competition, 2025.
-- Huawei Scholarship, 2022.
+- **Huawei Scholarship**, 2022.
 - **Second Prize** in National College Mathematics Competition, 2019.
 - **Champion** (Team Captain) in China Robot Competition, 2018.
 - **First Prize** (Team Captain) in RoboCup China Open, 2018.
