@@ -17,13 +17,13 @@ Before that, I received my M.Eng. degree and B.Eng. degree from Xi'an Jiaotong U
 From September 2025 to September 2026, I was a visiting Ph.D. student at the [ASTAPLE Lab](https://www.astaple.com/), The Hong Kong Polytechnic University, advised by [Prof. Haibo Hu](https://haibohu.org/).
 
 My research interests focus on **AI for Cybersecurity** and **AI for System Dependability**:
-- **AI for Cybersecurity**: online and robust encrypted traffic identification systems, deployable intrusion detection systems. 
+- **AI for Cybersecurity**: online and robust traffic identification systems, deployable intrusion detection systems. 
 - **AI for System Dependability**: reliable fault detection, root-cause analysis solutions for network/cloud systems.
 
 
 # 🔥 News
 - *2026.08*: &nbsp;🎉🎉 Our mobile app traffic fingerprinting paper is accepted by NDSS 2027 (CCF-A)!
-- *2025.10*: &nbsp;🎉🎉 Our RAG-based QA paper is accepted by SIGKDD 2026 (CCF-A)! 
+- *2026.04*: &nbsp;🎉🎉 Our RAG-based QA paper is accepted by SIGKDD 2026 (CCF-A)! 
 - *2025.10*: &nbsp;🎉🎉 Our VoIP traffic analysis paper is accepted by Chinese Journal of Computers 2026 (CCF-T1)! 
 - *2024.12*: &nbsp;🎉🎉 Our cloud system failure diagnosis paper is accepted by ACM/IEEE ICSE-SEIP 2025 (CCF-A)!  
 - *2023.11*: &nbsp;🎉🎉 Our streaming data early classification paper is accepted by IEEE ICDE 2024 (CCF-A)! 
